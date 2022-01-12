@@ -1,7 +1,7 @@
 
 ## Git Muistiinpanot/ohjeet
 
-Peruskomennot:  
+**Peruskomennot**:  
 - git status
 > Käytetään projektin nykytilanteen tarkistamiseen.
 - git add
