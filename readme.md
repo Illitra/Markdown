@@ -8,6 +8,11 @@
 > Tätä käyttämällä kerrotaan Git:ille että sen pitää huomioida se kyseinen tiedosto ja siihen tehdyt muutokset.
 - git commit
 > Tällä komennolla niin sanotusti tallennetaan tehdyt muutokset, tämä myös tallentaa ajan ja sen käyttäjän kuka teki kyseisen tallennuksen. Tallenusviesti vaaditaan ennen kuin komento voidaan suorittaa kokonaan.
+> > Tallennusviestin tekemiseen kirjoitetaan -m "viesti" komennon jälkeen.
 - git clone
 > Komentoa käytetään repositorin cloonaamiseen omalle työpöydälle, ja se samalla luo niin sanotun linkin niiden välille että tietoa niiden välillä voi siirtää sujuvasti.
+- git push
+> Komennolla siirretään tehdyt muutokset GitHubissa tallennettuun repositoriin tyyöpöydällä olevasta versiosta
+- git pull
+> Komennolla otetaan tehdyt muutokset GitHubissa tallennetusta repositorista työpöydällä olevaan versioon
 
