@@ -15,4 +15,8 @@
 > Komennolla siirretään tehdyt muutokset GitHubissa tallennettuun repositoriin tyyöpöydällä olevasta versiosta
 - git pull
 > Komennolla otetaan tehdyt muutokset GitHubissa tallennetusta repositorista työpöydällä olevaan versioon
+- git log
+> Tällä tarkistetaan edelliset commitit
+> > Lisää --oneline komennon perään saadaksesi tiivistetyn version
+
 
