@@ -19,4 +19,8 @@
 > Tällä tarkistetaan edelliset commitit
 > > Lisää --oneline komennon perään saadaksesi tiivistetyn version
 
+___
 
+**Paikallisen repositorin luominen**
+
+Paikallisen repositorin luomiseen käytetään komentoa *git init*, siihen voi myös lisätä omat käyttäjätiedot *git config user.name* komennolla ja sähköposti lisätään *git config --global user.email "sähköposti tähän"*
